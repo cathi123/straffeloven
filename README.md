@@ -8,4 +8,5 @@
   * Egne ansatte røper bedriftshemmeligheter (§ 294)
     * 1972 - Innført tillegg om konsulenter
   * Logiske bomber eller datavirus som medfører skade (§ 291 og §292)
+  
   * Forfalskning, også ved hjelp av datamaskiner (§ 182, §270-271)
