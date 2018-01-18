@@ -1,7 +1,9 @@
+Straffeloven 2005
+===
+
 1. oktober 2015 ble Straffeloven 1902 erstattet av Straffeloven 2005. Dette dokumentet beskriver paragrafer 
 (direkte sitater) hentet fra Straffeloven 2005 fra https://lovdata.no/dokument/NL/lov/2005-05-20-28, som er 
 relevant i forbindelse med informasjonssikkerhet:
-===
 
 Kapittel 21. Vern av informasjon og informasjonsutveksling
 ---
