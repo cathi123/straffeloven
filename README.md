@@ -2,8 +2,10 @@
 (direkte sitater) hentet fra Straffeloven 2005 fra https://lovdata.no/dokument/NL/lov/2005-05-20-28, som er 
 relevant i forbindelse med informasjonssikkerhet:
 ===
+
 Kapittel 21. Vern av informasjon og informasjonsutveksling
 ---
+
 '''
      § 201. Uberettiget befatning med tilgangsdata, dataprogram mv.
      Med bot etter fengsel inntil 1 år straffes den som med forsett om å begå en straffbar handling uberettiget 
@@ -84,6 +86,7 @@ Kapittel 21. Vern av informasjon og informasjonsutveksling
 
 Kapittel 29. Vern av tilliten til penger og visse dokumenter
 ---
+
 '''
      § 361. Dokumentfalsk
      Med bot eller fegsel på inntil 2 år straffes den som 
