@@ -1,11 +1,11 @@
-1. oktober 2015 ble Straffeloven 1902 erstattet av Straffeloven 2005. Dette dokumentet beskriver paragrafer (direkte sitater) hentet fra Straffeloven 2005 fra https://lovdata.no/dokument/NL/lov/2005-05-20-28, som er relevant i forbindelse med informasjonssikkerhet:
+#1. oktober 2015 ble Straffeloven 1902 erstattet av Straffeloven 2005. Dette dokumentet beskriver paragrafer (direkte sitater) hentet fra Straffeloven 2005 fra https://lovdata.no/dokument/NL/lov/2005-05-20-28, som er relevant i forbindelse med informasjonssikkerhet:
 
-Kapittel 21. Vern av informasjon og informasjonsutveksling
+##Kapittel 21. Vern av informasjon og informasjonsutveksling
 
-     § 201. Uberettiget befatning med tilgangsdata, dataprogram mv.
-     Med bot etter fengsel inntil 1 år straffes den som med forsett om å begå en straffbar handling uberettiget fremstiller,          anskaffer, besitter eller gjør tilgjengelig for en annen
-     a) passord eller andre opplysninger som kan gi tilgang til databasert informasjon eller datasystem, eller
-     b) dataprogram eller annet som er særlig egnet som middel til å begå straffbare handlinger som retter seg mot databasert        informasjon eller datasystem. På samme måte straffes den som uten forsett om å begå straffbar handling besitter et              selvspredende dataprogram, og besittelsen skyldes uberettiget fremstilling eller anskaffelse av programmet.
+     ###§ 201. Uberettiget befatning med tilgangsdata, dataprogram mv.
+     ####Med bot etter fengsel inntil 1 år straffes den som med forsett om å begå en straffbar handling uberettiget fremstiller, anskaffer, besitter eller gjør tilgjengelig for en annen
+     ####a) passord eller andre opplysninger som kan gi tilgang til databasert informasjon eller datasystem, eller
+     ####b) dataprogram eller annet som er særlig egnet som middel til å begå straffbare handlinger som retter seg mot databasert informasjon eller datasystem. På samme måte straffes den som uten forsett om å begå straffbar handling besitter et selvspredende dataprogram, og besittelsen skyldes uberettiget fremstilling eller anskaffelse av programmet.
 
      § 202. Identitetskrenkelse
      Med bot eller fengsel inntil 2 år straffes den som uberettiget setter seg i besittelse av en annens identitetsbevi, eller        opptrer med en annens identitet eller med en identiet som er lett å forveksle med en annens identiet, med forsett om å
