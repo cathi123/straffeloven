@@ -8,7 +8,7 @@ relevant i forbindelse med informasjonssikkerhet:
 Kapittel 21. Vern av informasjon og informasjonsutveksling
 ---
 
-'''
+
      § 201. Uberettiget befatning med tilgangsdata, dataprogram mv.
      Med bot etter fengsel inntil 1 år straffes den som med forsett om å begå en straffbar handling uberettiget 
      fremstiller, anskaffer, besitter eller gjør tilgjengelig for en annen
@@ -84,12 +84,12 @@ Kapittel 21. Vern av informasjon og informasjonsutveksling
 
      Ved avgjørelsen av om taushetsbruddet er grovt skal det særlig legges vekt på om gjerningspersonen 
      har hatt forsett om uberettiget vinning og om handlingen har ført til tap eller fare for tap for noen.
-'''
+
 
 Kapittel 29. Vern av tilliten til penger og visse dokumenter
 ---
 
-'''
+
      § 361. Dokumentfalsk
      Med bot eller fegsel på inntil 2 år straffes den som 
      a) ettergjør eller forfalsker et dokument, eller anskaffer et ettergjort eller forfalsket dokument 
@@ -118,5 +118,5 @@ Kapittel 29. Vern av tilliten til penger og visse dokumenter
      besitter eller oppbevarer falsk segl, stempel eller merker eller andre gjenstander, som tilkjennegir 
      seg som bestemte til å benyttes til ettergjørelse eller forfalskning, eller i slik hensikt 
      tilvender seg et ekte segl, stempel eller merke, straffes med bot eller fengsel inntil 3 år.
-'''
+
 
